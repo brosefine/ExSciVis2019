@@ -21,6 +21,7 @@ uniform vec3    camera_location;
 uniform float   sampling_distance;
 uniform float   sampling_distance_ref;
 uniform float   iso_value;
+uniform float   iso_value_2;
 uniform vec3    max_bounds;
 uniform ivec3   volume_dimensions;
 
